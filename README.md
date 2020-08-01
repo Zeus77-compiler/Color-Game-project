@@ -13,4 +13,4 @@ These instructions will get you a copy of the project up and running on your loc
 * Download **Source Sans pro** font from [Google Fonts](https://fonts.google.com/?query=source+sans+pro&selection.family=Source+Sans+Pro)
 
 ##Author
-**Sai Pradeep CS**
+**Jahnu Sarmah**
